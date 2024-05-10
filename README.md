@@ -1,6 +1,6 @@
-# PAYMENTE SYSTEM;
+# PAYMENTE SYSTEM
 
-##This is a project just for me to develop and study on it.
+This is a project just for me to develop and study on it.
 
 Train my knowledge of:
 
